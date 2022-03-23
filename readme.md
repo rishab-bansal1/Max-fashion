@@ -1,5 +1,4 @@
-This is the clone of [Max Fashion](https://www.maxfashion.in/in/en/department/maxmen) build using Html, CSS JavaScript and Tailwind-Css.This is Single Handed Front-End project done by me in the third unit construct week organised at Masai School, Bengaluru, Karnataka within 5 Day. 
-
+This is the clone of [Max Fashion](https://www.maxfashion.in/in/en/department/maxmen) build using Html, CSS JavaScript and Tailwind-Css.
 ## Table of contents
 
 * [Demo](#demo)
@@ -14,7 +13,7 @@ This is the clone of [Max Fashion](https://www.maxfashion.in/in/en/department/ma
 
 ## Demo
 
-![Home-Page](https://github.com/Shahid321fw11/maxFashion_Clone_Project/blob/master/components/icons/MaxFashion.png?raw=true)
+![Home-Page](https://github.com/rishab-bansal1/Max-fashion/blob/master/components/icons/MaxFashion.png?raw=true)
 
 The application is deployed to Netlify and can be accessed through the following link:
 [Max Fashion](https://max-fashion-clone.netlify.app/)
