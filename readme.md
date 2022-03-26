@@ -3,7 +3,7 @@ This is the clone of [Max Fashion](https://www.maxfashion.in/in/en/department/ma
 
 * [Demo](#demo)
 * [How to run the app](#how-to-run-the-app)
-* [Basic inference about the company](#basic-inference-about-the-company)
+* [Project description](#basic-inference-about-the-company)
 * [Technology](#technology)
 * [Added Functionalities](#added-functionalities)
 * [Database](#database)
@@ -24,12 +24,9 @@ The website resembles a real store and you can browse the different-different se
 For running in to your machine just Clone the repository and open Index.js.
 That's it :) ...
 
-## Basic inference about the company
-
-Max Fashion is an Emirati fashion brand under the banner of the Mumbai based Landmark Group. The brand was first launched in May, 2004, in Middle East in UAE.
-
-Landmark Group has multiple retail brands, including Centrepoint, Babyshop, Splash, Shoe Mart, Lifestyle, Iconic, Max, Shoexpress, Home Centre, Home Box and Emax. The Group also holds franchise rights for many global fashion and footwear brands in the countries where it operates. Since its establishment, the Group has diversified into the segments of leisure, food, hospitality, and healthcare with Landmark leisure, Balance Spa and Salon, Citymax Hotels, Fitness First, and Foodmark, the Group's restaurant division, which operates the Group's own franchise food outlets.
-
+## Project description
+This is the clone of [Max Fashion](https://www.maxfashion.in/in/en/department/maxmen) build using Html, CSS JavaScript and Tailwind-Css.
+This is a Solo project done by me in the fourth unit construct week at Masai School. I learned many things during construction and learned different ways of doing things and the most important lesson is to never give up. I faced a lot of hurdles and challenges during building but eventually, I overcame all hurdles
 
 ## Technology
 
